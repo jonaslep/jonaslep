@@ -1,7 +1,7 @@
 <h1 align="center">Fala aí 👋, eu sou o Jonas</h1>
 
 <p align="center">
-  <img src="LINK_DA_SUA_IMAGEM" width="200px" style="border-radius:50%" />
+  <img src="https://github.com/jonaslep/jonaslep/blob/main/ft%20perf%20linkk%20(1).png" width="200px" style="border-radius:50%" />
 </p>
 
 <p align="center">
