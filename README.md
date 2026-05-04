@@ -61,7 +61,7 @@ Tenho foco em desenvolvimento web e estou aprendendo tanto o front-end quanto o 
 ## 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/jonathan-rodrigues-934225405/
-- Email: biiiirl018@gmail.com
+- Email: jsouza.jsrodrigues@gmail.com
 
 ---
 
