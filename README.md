@@ -41,9 +41,11 @@ Tenho foco em desenvolvimento web e estou aprendendo tanto o front-end quanto o 
 
 ## 📌 Projetos em destaque
 
-🔹 [Tela de Login](LINK_DO_PROJETO)  
-🔹 [Timer Pomodoro](LINK_DO_PROJETO)  
-🔹 [Outro projeto simples](LINK_DO_PROJETO)  
+🔹 [Tela de Login](https://github.com/jonaslep/javascript-iniciante/tree/main/tela-de-login)  
+🔹 [Timer Pomodoro](https://github.com/jonaslep/javascript-iniciante/tree/main/timer-pomodoro)  
+🔹 [TODO-List](https://github.com/jonaslep/To-Do-List)
+🔹 [Calculadora](https://github.com/jonaslep/javascript-iniciante/tree/main/calculadora)  
+🔹 [Slide-puzzle](https://github.com/jonaslep/javascript-iniciante/tree/main/slide-puzzle)
 
 ---
 
